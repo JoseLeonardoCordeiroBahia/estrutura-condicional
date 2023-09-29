@@ -1,4 +1,4 @@
-package sintaxe.opcional.switchCase;
+package sintaxe.opcional.estrutura.condicional.switchCase;
 
 import java.util.Scanner;
 
